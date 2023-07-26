@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: eu.xevix.bot.Main
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.6.3
+Built-By: Baeldung
+Build-Jdk: 20.0.1
+
